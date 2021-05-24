@@ -1,6 +1,6 @@
 # MovieDatabaseD365
 
-The underlying database is a model driven app using the Power Apps platform to store movies and related records: movie ratings, movie production companies, and movie roles. 
+The underlying database in this project is a model driven app using the Power Apps platform to store movies and related records: movie ratings, movie production companies, and movie roles. 
 
 The model driven app consists of out of the box solution entities as well custom entities and is used as the underlying data model in order to create the canvas app. 
 
