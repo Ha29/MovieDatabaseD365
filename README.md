@@ -10,6 +10,6 @@ In the first action, the inputs are the movie entityreference, and the movie rol
 
 In all three actions, code from different custom Plugins are triggered to find existing and create new associated records. 
 
-SDHMovieDatabase_1_0_0_6.zip is the unmanaged solution, while the directory SDH.MoviePlugins contains the plugin code. 
+SDHMovieDatabase_1_0_0_8.zip is the unmanaged solution, while the directory SDH.MoviePlugins contains the plugin code. 
 
 
